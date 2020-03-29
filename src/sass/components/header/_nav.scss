@@ -72,10 +72,16 @@
   }
 }
 
+
+.m-nav__links {
+  margin-left: auto;
+}
+
 .m-nav__right {
   display: flex;
   align-items: center;
   justify-content: flex-end;
+	margin-left: 35px;
 }
 
 .rtl {
